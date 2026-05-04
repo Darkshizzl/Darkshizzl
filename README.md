@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 🚀 Founder of SHIZZL HOLDINGS
 
-💻 Software Developer | FinTech Builder | Systems Architect
+💻 Software Developer | Financial Technology Builder | Systems Architect
 
 📍 South Africa
+
 
 🧠 About Me
 I build real-world systems that combine software engineering, finance, and automation.
