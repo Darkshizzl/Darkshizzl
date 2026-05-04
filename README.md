@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Tumelo Mothupi (DarkShizzl)
 
 🚀 Founder of SHIZZL HOLDINGS
+
 💻 Software Developer | FinTech Builder | Systems Architect
+
 📍 South Africa
 
 🧠 About Me
