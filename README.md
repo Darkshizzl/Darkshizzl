@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Tumelo Mothupi (DarkShizzl)
 
-🚀 Founder of SHIZZL HOLDINGS
+🚀 Founder of SHIZZL HOLDINGS PTY LTD
 
 💻 Software Developer | Financial Technology Builder | Systems Architect
 
